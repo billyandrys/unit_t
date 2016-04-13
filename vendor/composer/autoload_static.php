@@ -9,7 +9,7 @@ class ComposerStaticInite31ee3161bcaf2ddf07eb25ab51b22aa
     public static $prefixLengthsPsr4 = array (
         'u' => 
         array (
-            'unit-t\\' => 7,
+            'unit_t\\' => 7,
         ),
         'S' => 
         array (
@@ -23,7 +23,7 @@ class ComposerStaticInite31ee3161bcaf2ddf07eb25ab51b22aa
     );
 
     public static $prefixDirsPsr4 = array (
-        'unit-t\\' => 
+        'unit_t\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
         ),

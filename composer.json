@@ -2,7 +2,7 @@
         
     "autoload": {
         "psr-4": {
-            "unit-t\\":"src/"
+            "unit_t\\":"src/"
         }
     },
         
